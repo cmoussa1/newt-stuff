@@ -17,3 +17,5 @@ This repo contains a series of documents centered around common topics, technolo
 **genders**: node configuration on a computing cluster
 
 **gdb**: GNU debugger for programs
+
+**powerman/conman**: node management tools
