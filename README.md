@@ -12,3 +12,4 @@ This repo contains a series of documents centered around common topics, technolo
 **Compiling and Linking**: basic compiling and linking of C programs
 **pdsh**: parallel distributed shell command line tool
 **genders**: node configuration on a computing cluster
+**gdb**: GNU debugger for programs 
