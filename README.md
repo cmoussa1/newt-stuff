@@ -19,3 +19,5 @@ This repo contains a series of documents centered around common topics, technolo
 **gdb**: GNU debugger for programs
 
 **powerman/conman**: node management tools
+
+**versioning**: guidelines for numbering different releases of software
