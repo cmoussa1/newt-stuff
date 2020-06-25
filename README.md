@@ -21,3 +21,5 @@ This repo contains a series of documents centered around common topics, technolo
 **powerman/conman**: node management tools
 
 **versioning**: guidelines for numbering different releases of software
+
+**rpms**: a quick overview of RPM's and the buildfarm 
